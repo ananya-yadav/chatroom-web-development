@@ -1,0 +1,3 @@
+The whole project has been deployed to Heroku. The link is "https://stark-brook-76535.herokuapp.com".
+
+Instruction: Enter the root folder, type "npm install" to install all the dependencies for node server and "node index.js", it will open the node server. I have already deployed the socket server into the Heroku so we don't need to run the socket server. And enter the  "client" folder, run "npm "npm install" to dependencies for react and "npm start" to start the react (front-end page). The port number which runs page is 3000.
